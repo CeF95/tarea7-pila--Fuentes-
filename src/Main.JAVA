@@ -23,7 +23,7 @@ public class Main {
             }
         }
 
-        // 4. Imprimir estado actual de la bitácora
+        // 4. Imprimir estado actual de la bitácorals
         System.out.println("\n--- Estado actual de la bitácora ---");
         System.out.println("Total de eventos restantes: " + bitacora.totalEventos());
         if (!bitacora.estaVacia()) {
